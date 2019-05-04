@@ -10,7 +10,7 @@ Predicting survival in Titanic passengers is the introductory competition on Kag
 
 So we are expected to use a binary classifier model for the outcome (`Survival`) that we can train on the provided `train.csv` file, and test on the provided `test.csv` file.
 
-My analysis is in the Jupyter notebook `Titanic.ipynb`.
+My analysis is in the Jupyter notebook `Titanic.ipynb`. It can be viewed [here on nbviewer](https://nbviewer.jupyter.org/github/benmayersohn/titanic-kaggle/blob/master/Titanic.ipynb)
 
 Below is a breakdown of the files in this repository.
 <pre class="language-bash"><code class="language-bash">titanic
